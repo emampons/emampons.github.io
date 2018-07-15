@@ -11,6 +11,10 @@ h1 {
 
 body{
   background: #1D1E26;
+  padding-top: 5em;
+  display: flex;
+  justify-content: center;
+
 }
 
 p{
@@ -25,4 +29,12 @@ p{
     left: 50%;
     margin-top: -100px;
     margin-left: -200px;
+}
+
+
+img {
+    width:50%;
+    height:50%;
+    border-radius:10%;
+    align-self: center;
 }
